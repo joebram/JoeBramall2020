@@ -10,6 +10,8 @@
   --borderRadius: 3px;
 }
 
+@import url("https://use.typekit.net/nie7ssq.css");
+
 ::-webkit-scrollbar {
   width: 0.4rem;
 }
@@ -34,7 +36,7 @@ html {
 }
 
 body {
-  font-family: var(--font-system);
+  font-family: aktiv-grotesk, sans-serif;
   min-height: 100%;
   position: relative;
   background: white;
@@ -69,7 +71,10 @@ h6 {
   margin-bottom: 0.5em;
 }
 
-h2 {
+h1, h2 {
+  font-family: aktiv-grotesk, sans-serif;
+  font-weight: 800;
+  font-style: normal;
   font-size: 2em;
   line-height: 1.4em;
 }
