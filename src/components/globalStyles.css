@@ -7,7 +7,7 @@
   --danger: #ff3d3d;
   --font-primary: 'Open Sans', sans-serif;
   --font-system: system-ui; /* postcssPresetEnv */
-  --borderRadius: 3px;
+  --borderRadius: 6px;
 }
 
 @import url("https://use.typekit.net/nie7ssq.css");
@@ -72,10 +72,13 @@ h6 {
   margin-bottom: 0.5em;
 }
 
-h1, h2 {
+h1, h2, h3 {
   font-family: itc-avant-garde-gothic-pro, sans-serif;
   font-weight: 700;
   font-style: normal;
+}
+
+h1, h2 {
   font-size: 2em;
   line-height: 1.4em;
 }
