@@ -3,7 +3,7 @@ template: HomePage
 slug: ''
 title: Joe Bramall
 featuredImage: 'https://ucarecdn.com/ec259875-6304-4401-865b-236a46cc0d72/'
-subtitle: '## Service designer at FutureGov'
+subtitle: '## Service designer'
 meta:
   description: This is a meta description.
   title: The Ultimate Gatsby Starter
