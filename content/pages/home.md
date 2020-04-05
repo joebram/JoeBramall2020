@@ -2,7 +2,7 @@
 template: HomePage
 slug: ''
 title: Joe Bramall
-featuredImage: 'https://ucarecdn.com/159203d3-881d-4218-baa1-ca4427b48d0d/'
+featuredImage: 'https://ucarecdn.com/ec259875-6304-4401-865b-236a46cc0d72/'
 subtitle: '## Service designer at FutureGov'
 meta:
   description: This is a meta description.
