@@ -1,9 +1,9 @@
 .Nav {
-  background: white;
+  background: black;
   position: sticky;
   top: 0;
   z-index: 2;
-  border-bottom: 1px solid var(--lightGrey);
+  border-bottom: 0px solid var(--lightGrey);
   box-shadow: 0 2px 5px rgba(0, 0, 0, 0.025);
 }
 
@@ -34,6 +34,9 @@
 }
 
 .NavLink {
+  font-family: itc-avant-garde-gothic-pro, sans-serif;
+  font-weight: 700;
+  font-style: normal;
   padding: 0.5rem 1rem;
   display: block;
   font-weight: 500;
