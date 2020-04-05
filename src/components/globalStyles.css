@@ -245,6 +245,7 @@ blockquote {
   display: flex;
   align-items: center;
   justify-content: center;
+  color: white;
 }
 
 /*// Custom styles //*/
