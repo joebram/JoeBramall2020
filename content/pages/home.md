@@ -2,7 +2,7 @@
 template: HomePage
 slug: ''
 title: Joe Bramall
-featuredImage: 'https://ucarecdn.com/ec259875-6304-4401-865b-236a46cc0d72/'
+featuredImage: 'https://ucarecdn.com/b6057fe8-41c2-4b27-914e-b61d11cff0d8/'
 subtitle: '## Service designer'
 meta:
   description: This is a meta description.
