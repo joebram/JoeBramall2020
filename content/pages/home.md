@@ -9,6 +9,8 @@ meta:
   description: This is a meta description.
   title: The Ultimate Gatsby Starter
 ---
+# About me
+
 I'm currently working at FutureGov, designing services fit for the 21st century. I'm also a co-founder of NUX Liverpool and GovJam Liverpool, I volunteer my skills at various UX and service design events around the UK.
 
 Skills include: Service design, information architecture, user research, ideation, visual design, prototyping and usability testing.
