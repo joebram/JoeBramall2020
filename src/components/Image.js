@@ -168,4 +168,4 @@ Image.propTypes = {
   alt: PropTypes.string.isRequired
 }
 
-export default 
+export default Image
