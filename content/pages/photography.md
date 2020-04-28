@@ -1,6 +1,6 @@
 ---
-template: ComponentsPage
-slug: components
+template: PhotographyPage
+slug: photography
 title: Photography
 featuredImage: 'https://ucarecdn.com/b4930cb5-4f9d-429a-87f7-09beb31dda8c/'
 subtitle: A place for my random photography to live
