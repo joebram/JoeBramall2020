@@ -12,7 +12,8 @@ export const DefaultPageTemplate = ({
   title,
   subtitle,
   featuredImage,
-  body
+  body,
+  gallery
 }) => (
   <main className="DefaultPage">
     <PageHeader
@@ -34,7 +35,7 @@ export const DefaultPageTemplate = ({
         <Gallery images={gallery} />
       </div>
     </section>
-    
+
   </main>
 )
 
