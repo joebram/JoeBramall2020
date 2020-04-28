@@ -75,7 +75,7 @@ const PhotographyPage = ({ data: { page } }) => (
     meta={page.frontmatter.meta || false}
     title={page.frontmatter.title || false}
   >
-    <PhotogrpahyPageTemplate {...page} {...page.frontmatter} body={page.html} />
+    <PhotographyPageTemplate {...page} {...page.frontmatter} body={page.html} />
   </Layout>
 )
 
