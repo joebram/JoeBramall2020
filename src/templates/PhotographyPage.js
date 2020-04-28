@@ -82,7 +82,7 @@ const PhotographyPage = ({ data: { page } }) => (
 export default PhotographyPage
 
 export const pageQuery = graphql`
-  query PhotogrpahyPage($id: String!) {
+  query PhotographyPage($id: String!) {
     page: markdownRemark(id: { eq: $id }) {
       ...Meta
       ...Gallery
